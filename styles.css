@@ -1,0 +1,39 @@
+body {
+    padding: 0.2em;
+    margin: auto;
+    padding-top: 6em;
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    max-width: 500px;
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;  
+    background-size: cover;
+    background-position: center top;
+
+}
+
+main {
+    display: block;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    letter-spacing: 0.0625em;
+}
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 0.0625em;
+    font-size: 5em;
+    margin: 0 0 0 0;
+}
+
+#logo {
+    width: 180px;
+}
+
+img {
+    width: 250px;
+}
